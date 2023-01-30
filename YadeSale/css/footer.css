@@ -1,0 +1,14 @@
+.container {
+    /*   display: flex;*/
+    text-align: center;
+
+
+}
+
+.footer-p,
+.footer-email,
+.ubic {
+    margin: 12px;
+    opacity: 0.6;
+
+}
